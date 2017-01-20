@@ -1,4 +1,23 @@
+*{
+        box-sizing: border-box;
+        background-color: #d3d3d3;
+    
+}
+.image{
+    position: relative;
+    float: right;
+    
+}
+.text{
+    position: absolute;
+}
+.head{
+    background-color: #faebd7;
+    color: green;
+}
+
 footer{
-    font-family: fantasy,
+    font-family: fantasy;
+    color:green;
     
 }
